@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: docker-spring-boot
+Implementation-Version: 1.0.0
+Built-By: changcheng
+Implementation-Vendor-Id: com.rick
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/docker-sprin
+ g-boot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
